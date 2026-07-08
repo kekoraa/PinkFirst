@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"C:\\\\Users\\\\Chi Shuan\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"nonprofit healthcare breast cancer awareness maternal charity\" --design-system -p \"Pink First\")",
+      "Bash(mkdir -p \"D:/chishuan/pinkfirst/.claude\")",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}

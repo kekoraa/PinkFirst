@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Pink First",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "3400", "--directory", "D:/chishuan/pinkfirst"],
+      "port": 3400
+    }
+  ]
+}
