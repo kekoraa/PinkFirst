@@ -52,8 +52,8 @@ JS routing — showPage(pageId). Pages: home, about, programs, branches, donate,
 - Nitin Ponduri — Co-Founder & CEO — nponduri111@tamu.edu — SVG avatar (no photo)
 - Jade Kamoun — CMO — jade.kamoun@utexas.edu — photo: jade.jpg
 
-## Branches (14 schools)
-UT Dallas, UT Austin, UCLA, Baylor, UW, Johns Hopkins, UNC, CU Boulder, Texas A&M, UC Riverside, Harvard, Rice, Case Western, UPenn
+## Branches (15 schools)
+UT Dallas, UT Austin, UCLA, Baylor, UW, Johns Hopkins, UNC, CU Boulder, Texas A&M, UC Riverside, Harvard, Rice, Case Western, UPenn, UC Berkeley
 
 ## Newsletter
 Google Forms via fetch() no-cors
