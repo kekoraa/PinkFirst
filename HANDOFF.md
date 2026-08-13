@@ -64,7 +64,7 @@ Entries: 286226832 (first), 1730577509 (last), 523855388 (email), 1809582231 (ph
 GoFundMe: https://gofund.me/b559a583f — single button, tiers are $5 / $15 / $25 (informational only)
 
 ## Contact
-Email: pfirst@gmail.com | Phone: 346-754-1237 | Houston, TX
+Email: pinkfirstnpo@gmail.com | Phone: 346-754-1237 | Houston, TX
 Instagram: https://www.instagram.com/pinkfirsttamu/
 
 ## What Was Changed from Original Template
