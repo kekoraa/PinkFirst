@@ -22,14 +22,6 @@ logos/          University branch logos (16 schools)
 
 Home, About, Programs, Branches, Donate, Privacy, Terms, Accessibility, all rendered from `index.html` and switched via client-side routing (no page reloads).
 
-## Running Locally
-
-```
-python -m http.server 3400 --directory .
-```
-
-Then open [http://localhost:3400](http://localhost:3400).
-
 ## Deployment
 
 Hosted on [Vercel](https://vercel.com), connected to this GitHub repo. Pushes to the main branch auto-deploy:
