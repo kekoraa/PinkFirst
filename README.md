@@ -6,7 +6,7 @@ Pink First is a nonprofit dedicated to breast cancer awareness and women's healt
 
 ## Tech Stack
 
-Plain HTML, CSS, and JavaScript — no build step, no frameworks, no dependencies. Everything (markup, styles, and scripting) lives in a single `index.html` file, with page navigation handled client-side via a JS router (`showPage(pageId)`).
+Plain HTML, CSS, and JavaScript. No build step, no frameworks, no dependencies. Everything (markup, styles, and scripting) lives in a single `index.html` file, with page navigation handled client-side via a JS router (`showPage(pageId)`).
 
 ## Project Structure
 
@@ -20,7 +20,7 @@ logos/          University branch logos (16 schools)
 
 ## Pages
 
-Home, About, Programs, Branches, Donate, Privacy, Terms, Accessibility — all rendered from `index.html` and switched via client-side routing (no page reloads).
+Home, About, Programs, Branches, Donate, Privacy, Terms, Accessibility, all rendered from `index.html` and switched via client-side routing (no page reloads).
 
 ## Running Locally
 
