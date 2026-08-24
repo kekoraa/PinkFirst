@@ -12,10 +12,8 @@ Plain HTML, CSS, and JavaScript. No build step, no frameworks, no dependencies. 
 
 ```
 index.html      Entire website — HTML, CSS, and JS
-logo.png        Pink First logo
-chirayu.jpg     Team photo — Chirayu Pradhan
-jade.jpg        Team photo — Jade Kamoun
-logos/          University branch logos (16 schools)
+logos/          Pink First logo + university branch logos (16 schools)
+profile-pics/   Team headshots — Chirayu Pradhan, Jade Kamoun
 ```
 
 ## Pages
